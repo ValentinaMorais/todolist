@@ -1,5 +1,8 @@
 # ToDoList - React + TypeScript
 
+![ToDoList Demo](https://user-images.githubusercontent.com/ValentinaMorais/preview.png) 
+
+
 Um aplicativo simples e moderno de lista de tarefas (ToDo List) criado com React e TypeScript.  
 Este projeto utiliza Vite como bundler para um desenvolvimento rápido e eficiente, com interface estilizada e um fundo pixel art de nuvens para dar um toque divertido e retrô.
 
