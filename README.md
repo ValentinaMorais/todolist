@@ -26,22 +26,6 @@ Este projeto utiliza Vite como bundler para um desenvolvimento rápido e eficien
 - Mensagem animada de confirmação ao adicionar uma tarefa ("Tarefa Adicionada!")  
 - Fundo animado em pixel art com nuvens para uma experiência visual diferenciada  
 
----
-
-## 📁 Estrutura do Projeto
-
-todolist/
-├── public/ # Arquivos públicos (imagens, ícones, etc)
-│ └── clouds-bg.jpg # Imagem do fundo pixel art
-├── src/
-│ ├── components/ # Componentes React reutilizáveis
-│ ├── App.tsx # Componente principal do app
-│ ├── main.tsx # Ponto de entrada da aplicação
-│ └── App.css # Estilos globais do projeto
-├── package.json # Dependências e scripts
-├── vite.config.ts # Configuração do Vite
-└── README.md # Este arquivo
-
 
 ---
 
