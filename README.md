@@ -24,7 +24,7 @@ Este projeto utiliza Vite como bundler para um desenvolvimento rápido e eficien
 - Marcar tarefas como concluídas  
 - Filtrar tarefas por status (Todas, Ativas, Concluídas)  
 - Mensagem animada de confirmação ao adicionar uma tarefa ("Tarefa Adicionada!")  
-- Fundo animado em pixel art com nuvens para uma experiência visual diferenciada  
+- Fundo animado em pixel art com nuvens para uma experiência visual. 
 
 
 ---
